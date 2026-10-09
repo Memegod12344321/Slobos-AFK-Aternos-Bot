@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TheMemegodSmp.aternos.me",
-    "port": 28386,
+    "ip": "MemegodSmp.aternos.me",
+    "port": 25878,
     "version": "",
     "try-creative": false
   },
